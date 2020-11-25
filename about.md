@@ -37,3 +37,5 @@ It is your opportunity to let us know all the details "about" your project:
 - {{ animal.name | upcase }}
 {% endfor %}
 
+<!-- {{ site.github.build_revision }} -->
+
